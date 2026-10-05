@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**Hedgehog719/Hedgehog719** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Hedgehog719**  
+I'm a graduate student currently learning programming and exploring software development through projects and collaboration.
 
-Here are some ideas to get you started:
+### About Me
+- 🎓 Graduate student
+- 🌱 Currently learning programming and software development
+- 💻 Interested in building projects and solving problems
+- 🤝 Enjoy learning from collaboration
+- 🚀 Keep learning and improving step by step
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+Thanks for stopping by!
